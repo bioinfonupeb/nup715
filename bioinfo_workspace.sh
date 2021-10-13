@@ -12,9 +12,7 @@ cd "backup"
 wget -O - https://codeload.github.com/bioinfonupeb/nup715-2021/tar.gz/main | tar -xz --strip=2 "nup715-2021-main/backup";
 cd ..
 
-mkdir -p "tmp"
-cd "tmp"
-wget -O - https://codeload.github.com/bioinfonupeb/nup715-2021/tar.gz/main | tar -xz --strip=2 "nup715-2021-main/tmp";
+mkdir -p "useless-folder"
+cd "useless-folder"
+wget -O - https://codeload.github.com/bioinfonupeb/nup715-2021/tar.gz/main | tar -xz --strip=2 "nup715-2021-main/useless-folder";
 cd ~
-
-
