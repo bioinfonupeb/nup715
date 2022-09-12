@@ -1,5 +1,5 @@
 # NUP715 - Bioinformática
-Material de apoio para a disciplina NUP715 (Bionformática) da UFOP.
+Este repositório contém alguns dos materiais de apoio da disciplina NUP715 (Bionformática) da UFOP.
 
 ## Fonte dos dados utilizados
 - biostats.csv: https://people.math.sc.edu/Burkardt/datasets/csv/csv.html
