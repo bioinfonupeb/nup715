@@ -1,16 +1,21 @@
 #!/bin/bash
 
-BASE="${PWD}/nup715-apostila";
-
 cd ~;
-mkdir -p "${BASE}/data";
-cd "${BASE}/data";
+BASE="${PWD}";
+
+NEWDIR="${BASE}/data";
+mkdir -p "${NEWDIR}";
+cd "${NEWDIR}";
 wget -O - https://codeload.github.com/bioinfonupeb/nup715/tar.gz/main | tar -xz --strip=2 "nup715-main/data";
 
-mkdir -p "${BASE}/backup";
-cd "${BASE}/backup";
+NEWDIR="${BASE}/backup";
+mkdir -p "${NEWDIR}";
+cd "${NEWDIR}";
 wget -O - https://codeload.github.com/bioinfonupeb/nup715/tar.gz/main | tar -xz --strip=2 "nup715-main/backup";
 
-mkdir -p "${BASE}/useless-folder";
-cd "${BASE}/useless-folder";
+NEWDIR="${BASE}/useless-folder";
+mkdir -p "${NEWDIR}";
+cd "${NEWDIR}";
 wget -O - https://codeload.github.com/bioinfonupeb/nup715/tar.gz/main | tar -xz --strip=2 "nup715-main/useless-folder";
+
+cd "${BASE}";
