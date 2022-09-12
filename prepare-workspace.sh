@@ -1,6 +1,6 @@
 #!/bin/bash
 
-BASE="~/nup715-apostila";
+BASE="${PWD}/nup715-apostila";
 
 cd ~;
 mkdir -p "${BASE}/data";
