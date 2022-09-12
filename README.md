@@ -6,3 +6,4 @@ Este repositório contém alguns dos materiais de apoio da disciplina NUP715 (Bi
 - grades.csv: https://people.math.sc.edu/Burkardt/datasets/csv/csv.html
 - ecoli_promoters.faa: https://github.com/solovictor/CNNPromoterData/blob/master/Ecoli_prom.fa
 - fasta-sequences-example.faa: http://prodata.swmed.edu/promals/info/fasta_format_file_example.htm
+- useless-file.txt: gerado atráves do site https://www.lipsum.com/
