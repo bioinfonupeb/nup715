@@ -1,11 +1,15 @@
 # NUP715 - Bioinformática
 Este repositório contém alguns dos materiais de apoio da disciplina NUP715 (Bionformática) da UFOP.
 
+## Apostila guiada
+O arquivo [Introducao-ao-Shell-para-Bioinformatica.pdf](https://github.com/bioinfonupeb/nup715/blob/main/Introducao-ao-Shell-para-Bioinformatica.pdf) contém o material para auxiliar os alunos a compreenderem e exercitarem alguns conceitos e comandos básicos do Linux, que servirão de base para o posterior aprendizado das ferramentas de bioinformática utilizadas na sala de aula.
+
+## Configuração inicial do ambiente da apostila
 Alguns exemplos e exercícios presentes na apostila devem ser baixados deste repositório. Para configurar o ambiente, siga os seguintes passos:
 
 - Abra o seu terminal de comandos.
-- Utilize o comando \inlinecode{TeX}{cd ~} para acessar o seu diretório inicial de usuário.
-- Agora utilize o seguinte comando para baixar o \textit{script} que irá baixar os demais arquivos e diretórios: `wget https://tinyurl.com/2dfyhwph -O prepare-workspace.sh`
+- Utilize o comando `cd ~` para acessar o seu diretório inicial de usuário.
+- Agora utilize o seguinte comando para baixar o script que irá baixar os demais arquivos e diretórios: `wget https://tinyurl.com/2dfyhwph -O prepare-workspace.sh`
 - Agora execute o comando `bash -i prepare-workspace.sh` para executar o script e realizar os downloads.
 - Ao usar o comando `ls`, será possível listar todas as novas pastas baixadas.
 
