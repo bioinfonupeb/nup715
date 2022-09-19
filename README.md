@@ -1,6 +1,10 @@
 # NUP715 - Bioinformática
 Este repositório contém alguns dos materiais de apoio da disciplina NUP715 (Bionformática) da UFOP.
 
+## Intrutores da disciplina NUP715
+ - Izinara Rosse da Cruz - Lattes: http://lattes.cnpq.br/4671130343607854
+ - Lauro Ângelo Gonçalves de Moraes - Lattes: http://lattes.cnpq.br/7273329679145458
+
 ## Apostila guiada
 O arquivo [Introducao-ao-Shell-para-Bioinformatica.pdf](https://github.com/bioinfonupeb/nup715/blob/main/Introducao-ao-Shell-para-Bioinformatica.pdf) contém o material para auxiliar os alunos a compreenderem e exercitarem alguns conceitos e comandos básicos do Linux, que servirão de base para o posterior aprendizado das ferramentas de bioinformática utilizadas na sala de aula.
 
